@@ -1,0 +1,1173 @@
+{
+ "id": "q1",
+ "title": "Quyển Thượng",
+ "chapters": [
+  {
+   "number": 1,
+   "title": "THẦN THÔNG TRÊN CUNG TRỜI ĐAO LỢI",
+   "sections": [
+    {
+     "number": 1,
+     "title": "PHẬT HIỆN THẦN THÔNG",
+     "blocks": [
+      {
+       "id": "q1.p1.s1.b1",
+       "type": "prose",
+       "text": "Ta nghe như thế nầy: Một thuở nọ, tại cung Trời Đao Lợi, đức Phật vì Thánh Mẫu mà thuyết pháp."
+      },
+      {
+       "id": "q1.p1.s1.b2",
+       "type": "prose",
+       "text": "Lúc đó, bất khả thuyết, bất khả thuyết tất cả chư Phật và đại Bồ Tát trong vô lượng thế giới ở mười phương đều đến hội họp, rồi đồng khen ngợi rằng:"
+      },
+      {
+       "id": "q1.p1.s1.b3",
+       "type": "prose",
+       "text": "Đức Phật Thích Ca Mâu Ni có thể ở trong đời ác ngũ trược mà hiện sức “Đại trí tuệ thần thông chẳng thể nghĩ bàn” để điều phục chúng sanh cang cường làm cho chúng nó rõ “Pháp khổ pháp vui”."
+      },
+      {
+       "id": "q1.p1.s1.b4",
+       "type": "prose",
+       "text": "Khen xong, chư Phật đều sai thị giả kính thăm đức Thế Tôn."
+      },
+      {
+       "id": "q1.p1.s1.b5",
+       "type": "prose",
+       "text": "Bấy giờ, đức Như Lai mỉm cười phóng ra trăm nghìn vừng mây sáng rỡ lớn. Như là:"
+      },
+      {
+       "id": "q1.p1.s1.b6",
+       "type": "verse",
+       "text": "Vừng mây sáng rỡ đầy đủ,\nVừng mây sáng rỡ đại từ bi,\nVừng mây sáng rỡ đại trí huệ,\nVừng mây sáng rỡ đại Bát Nhã,\nVừng mây sáng rỡ đại tam muội,\nVừng mây sáng rỡ đại kiết tường,\nVừng mây sáng rỡ đại phước đức,\nVừng mây sáng rỡ đại công đức,\nVừng mây sáng rỡ đại quy y,"
+      },
+      {
+       "id": "q1.p1.s1.b7",
+       "type": "prose",
+       "text": "Vừng mây sáng rỡ đại tán thán..., Đức Phật phóng ra bất khả thuyết vừng mây sáng rỡ như thế rồi lại phát ra các thứ tiếng vi diệu. Như là:"
+      },
+      {
+       "id": "q1.p1.s1.b8",
+       "type": "verse",
+       "text": "Tiếng Bố thí độ,\nTiếng Trì giới độ,\nTiếng Nhẫn nhục độ,\nTiếng Tinh tấn độ,\nTiếng Thiền định độ,\nTiếng Bát Nhã độ,\nTiếng Từ bi,\nTiếng Hỷ xả,\nTiếng Giải thoát,\nTiếng Vô lậu,\nTiếng Trí huệ,\nTiếng Sư tử hống,\nTiếng Đại Sư tử hống,\nTiếng Mây sấm,\nTiếng Mây sấm lớn…"
+      }
+     ],
+     "id": "q1.p1.s1"
+    },
+    {
+     "number": 2,
+     "title": "TRỜI RỒNG… HỘI HỌP",
+     "blocks": [
+      {
+       "id": "q1.p1.s2.b1",
+       "type": "prose",
+       "text": "Khi đức Phật phát ra bất khả thuyết, bất khả thuyết tiếng vi diệu như thế xong, thời có vô lượng ức hàng Trời, Rồng, Quỷ, Thần ở trong cõi Ta Bà và cõi nước phương khác cũng đến hội họp nơi cung Trời Đao Lợi. Như là:"
+      },
+      {
+       "id": "q1.p1.s2.b2",
+       "type": "verse",
+       "text": "Trời Tứ Thiên Vương,\nTrời Đao Lợi,\nTrời Tu Diệm Ma,\nTrời Đâu Suất Đà,\nTrời Hóa Lạc,\nTrời Tha Hóa Tự Tại,\nTrời Phạm Chúng,\nTrời Phạm Phụ,\nTrời Đại Phạm,\nTrời Thiểu Quang,\nTrời Vô Lượng Quang,\nTrời Quang Âm,\nTrời Thiểu Tịnh,\nTrời Vô Lượng Tịnh,\nTrời Biến Tịnh,\nTrời Phước Sanh,\nTrời Phước Ái,\nTrời Quảng Quả,\nTrời Nghiêm Sức,\nTrời Vô Lượng Nghiêm Sức,\nTrời Nghiêm Sức Quả Thiệt,\nTrời Vô Tưởng,\nTrời Vô Phiền,\nTrời Vô Nhiệt,\nTrời Thiện Kiến,\nTrời Thiện Hiện,\nTrời Sắc Cứu Cánh,"
+      },
+      {
+       "id": "q1.p1.s2.b3",
+       "type": "prose",
+       "text": "Trời Ma Hê Thủ La, cho đến Trời Phi Tưởng, Phi Phi Tưởng Xứ. Tất cả Thiên chúng, Long chúng, cùng các chúng Quỷ, Thần đều đến hội họp."
+      },
+      {
+       "id": "q1.p1.s2.b4",
+       "type": "prose",
+       "text": "Lại có những vị Thần ở cõi Ta Bà cùng cõi nước phương khác, như:"
+      },
+      {
+       "id": "q1.p1.s2.b5",
+       "type": "verse",
+       "text": "Thần biển,\nThần sông,\nThần rạch,\nThần cây,\nThần núi,\nThần đất,\nThần sông chằm,\nThần lúa mạ,\nThần chủ ngày,\nThần chủ đêm,\nThần hư không,\nThần trên Trời,\nThần chủ ăn uống,"
+      },
+      {
+       "id": "q1.p1.s2.b6",
+       "type": "prose",
+       "text": "Thần cây cỏ... Các vị Thần như thế đều đến hội họp."
+      },
+      {
+       "id": "q1.p1.s2.b7",
+       "type": "prose",
+       "text": "Lại có những Đại Quỷ Vương ở cõi Ta Bà cùng cõi nước phương khác, như:"
+      },
+      {
+       "id": "q1.p1.s2.b8",
+       "type": "verse",
+       "text": "Ác Mục Quỷ Vương,\nĐạm Huyết Quỷ Vương,\nĐạm Tinh Khí Quỷ Vương,\nĐạm Thai Noãn Quỷ Vương,\nHành Bịnh Quỷ Vương,\nNhiếp Độc Quỷ Vương,\nTừ Tâm Quỷ Vương,\nPhước Lợi Quỷ Vương,"
+      },
+      {
+       "id": "q1.p1.s2.b9",
+       "type": "prose",
+       "text": "Đại Ái Kính Quỷ Vương... Các Quỷ Vương như thế đều đến hội họp."
+      }
+     ],
+     "id": "q1.p1.s2"
+    },
+    {
+     "number": 3,
+     "title": "ĐỨC PHẬT PHÁT KHỞI",
+     "blocks": [
+      {
+       "id": "q1.p1.s3.b1",
+       "type": "prose",
+       "text": "Bấy giờ đức Thích Ca Mâu Ni Phật bảo Ngài Văn Thù Sư Lợi Pháp Vương tử đại Bồ Tát rằng: “Ông xem coi tất cả chư Phật, Bồ Tát và Trời, Rồng, Quỷ, Thần đó ở trong thế giới nầy cùng thế giới khác, ở trong quốc độ nầy cùng quốc độ khác, nay đều đến hội họp tại cung Trời Đao Lợi như thế, ông có biết số bao nhiêu chăng?”."
+      },
+      {
+       "id": "q1.p1.s3.b2",
+       "type": "prose",
+       "text": "Ngài Văn Thù Sư Lợi bạch Phật rằng: “Bạch đức Thế Tôn! Nếu dùng thần lực của con để tính đếm trong nghìn kiếp cũng không biết là số bao nhiêu!”."
+      },
+      {
+       "id": "q1.p1.s3.b3",
+       "type": "prose",
+       "text": "Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Đến Ta dùng Phật nhãn xem hãy còn không đếm xiết! Số Thánh, phàm nầy đều của ngài Địa Tạng Bồ Tát từ thuở kiếp lâu xa đến nay, hoặc đã độ, đương độ, chưa độ, hoặc đã thành tựu, đương thành tựu, chưa thành tựu”."
+      },
+      {
+       "id": "q1.p1.s3.b4",
+       "type": "prose",
+       "text": "Ngài Văn Thù Sư Lợi bạch đức Phật rằng: “Từ thuở lâu xa về trước con đã tu căn lành chứng đặng trí vô ngại, nghe lời đức Phật nói đó thời tin nhận liền. Còn hàng tiểu quả Thanh Văn, Trời, Rồng, tám bộ chúng và những chúng sanh trong đời sau, dầu nghe lời thành thật của Như Lai, nhưng chắc là sanh lòng nghi ngờ, dầu cho có lạy vâng đi nữa cũng chưa khỏi hủy báng. Cúi mong đức Thế Tôn nói rõ nhơn địa của ngài Địa Tạng Bồ Tát; Ngài tu hạnh gì, lập nguyện gì mà thành tựu được sự không thể nghĩ bàn như thế?”."
+      },
+      {
+       "id": "q1.p1.s3.b5",
+       "type": "prose",
+       "text": "Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Ví như bao nhiêu cỏ, cây, lùm, rừng, lúa, mè, tre, lau, đá, núi, bụi bặm trong cõi tam thiên đại thiên, cứ một vật làm một sông Hằng, rồi cứ số cát trong mỗi sông Hằng, một hột cát làm một cõi nước, rồi trong một cõi nước cứ một hột bụi nhỏ làm một kiếp, rồi bao nhiêu số bụi nhỏ chứa trong một kiếp đều đem làm kiếp cả. Từ lúc ngài Địa Tạng Bồ Tát chứng quả thập địa Bồ Tát đến nay nghìn lần lâu hơn số kiếp tỉ dụ ở trên, huống là những thuở ngài Địa Tạng còn ở bực Thanh Văn và Bích Chi Phật!"
+      },
+      {
+       "id": "q1.p1.s3.b6",
+       "type": "prose",
+       "text": "Nầy Văn Thù Sư Lợi! Oai thần thệ nguyện của Bồ Tát đó không thể nghĩ bàn đến được. Về đời sau, nếu có trang thiện nam, người thiện nữ nào nghe danh tự của Địa Tạng Bồ Tát, hoặc khen ngợi, hoặc chiêm ngưỡng vái lạy, hoặc xưng danh hiệu, hoặc cúng dường, nhẫn đến vẽ, khắc, đắp, sơn hình tượng của Địa Tạng Bồ Tát, thời người đó sẽ được một trăm lần sanh lên cõi Trời Đao Lợi, vĩnh viễn chẳng còn bị sa đọa vào chốn ác đạo."
+      }
+     ],
+     "id": "q1.p1.s3"
+    },
+    {
+     "number": 4,
+     "title": "TRƯỞNG GIẢ TỬ PHÁT NGUYỆN",
+     "blocks": [
+      {
+       "id": "q1.p1.s4.b1",
+       "type": "prose",
+       "text": "Nầy Văn Thù Sư Lợi! Trải qua bất khả thuyết, bất khả thuyết kiếp lâu xa về trước, tiền thân của ngài Địa Tạng Bồ Tát làm một vị Trưởng Giả Tử. Lúc đó, trong đời có đức Phật hiệu là: Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai. Trưởng giả tử thấy đức Phật tướng mạo tốt đẹp nghìn phước trang nghiêm, mới bạch hỏi đức Phật tu hạnh nguyện gì mà đặng tốt đẹp như thế?"
+      },
+      {
+       "id": "q1.p1.s4.b2",
+       "type": "prose",
+       "text": "Khi ấy, đức Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai bảo Trưởng giả tử rằng: “Muốn chứng được thân tướng tốt đẹp nầy, cần phải trải qua trong một thời gian lâu xa độ thoát tất cả chúng sanh bị khốn khổ”."
+      },
+      {
+       "id": "q1.p1.s4.b3",
+       "type": "prose",
+       "text": "Nầy Văn Thù Sư Lợi! Trưởng giả tử nghe xong liền phát nguyện rằng: “Từ nay đến tột số chẳng thể kể xiết ở đời sau, tôi vì những chúng sanh tội khổ trong sáu đường mà giảng bày nhiều phương tiện làm cho chúng đó được giải thoát hết cả, rồi tự thân tôi mới chứng thành Phật Đạo”."
+      },
+      {
+       "id": "q1.p1.s4.b4",
+       "type": "prose",
+       "text": "Bởi ở trước đức Phật Sư Tử Phấn Tấn Cụ Túc Vạn Hạnh Như Lai, Ngài lập nguyện rộng đó, nên đến nay đã trải qua trăm nghìn muôn ức vô số bất khả thuyết kiếp, mà Ngài vẫn còn làm vị Bồ Tát!"
+      }
+     ],
+     "id": "q1.p1.s4"
+    },
+    {
+     "number": 5,
+     "title": "BÀ LA MÔN NỮ CỨU MẸ",
+     "blocks": [
+      {
+       "id": "q1.p1.s5.b1",
+       "type": "prose",
+       "text": "Lại thuở bất khả tư nghị vô số kiếp về trước, lúc đó có đức Phật hiệu là: Giác Hoa Định Tự Tại Vương Như Lai, Đức Phật ấy thọ đến bốn trăm nghìn muôn ức vô số kiếp. Trong thời tượng pháp, có một người con gái dòng Bà La Môn, người nầy nhiều đời chứa phước sâu dày, mọi người đều kính nể, khi đi đứng lúc nằm ngồi, chư Thiên thường theo hộ vệ. Bà mẹ của người mê tín tà đạo, thường khinh khi ngôi Tam Bảo. Thuở ấy, mặc dầu Thánh nữ đem nhiều lời phương tiện khuyên nhủ bà mẹ người, hầu làm cho bà mẹ người sanh chánh kiến, nhưng mà bà mẹ người chưa tin hẳn. Chẳng bao lâu bà ấy chết, thần hồn sa đọa vào Vô Gián địa ngục."
+      },
+      {
+       "id": "q1.p1.s5.b2",
+       "type": "prose",
+       "text": "Lúc đó, Thánh Nữ biết rằng người mẹ khi còn sống không tin nhơn quả, liệu chắc phải theo nghiệp quấy mà sanh vào đường ác. Thánh Nữ bèn bán nhà, đất, sắm nhiều hương hoa cùng những đồ lễ cúng, rồi đem cúng dường tại các chùa tháp thờ đức Phật Giác Hoa Định Tự Tại Vương. Trong một ngôi chùa kia thấy hình tượng của đức Phật Giác Hoa Định Tự Tại Vương đắp vẽ oai dung đủ cách tôn nghiêm."
+      },
+      {
+       "id": "q1.p1.s5.b3",
+       "type": "prose",
+       "text": "Thánh Nữ chiêm bái tượng của đức Phật lại càng sanh lòng kính ngưỡng, tự nghĩ thầm rằng: “Đức Phật là đấng Đại Giác đủ tất cả trí huệ, nếu đức Phật còn trụ ở đời, thì khi mẹ tôi khuất, tôi đến bạch hỏi Phật, chắc thế nào cũng rõ mẹ tôi sanh vào chốn nào”."
+      },
+      {
+       "id": "q1.p1.s5.b4",
+       "type": "prose",
+       "text": "Nghĩ đến đó, Thánh Nữ buồn tủi rơi lệ chăm nhìn tượng Như Lai mà lòng quyến luyến mãi."
+      },
+      {
+       "id": "q1.p1.s5.b5",
+       "type": "prose",
+       "text": "Bỗng nghe trên hư không có tiếng bảo rằng: “Thánh Nữ đương khóc kia, thôi đừng có bi ai quá lắm! Nay ta sẽ bảo cho ngươi biết chỗ của mẹ ngươi”."
+      },
+      {
+       "id": "q1.p1.s5.b6",
+       "type": "prose",
+       "text": "Thánh Nữ chắp tay hướng lên hư không mà vái rằng: “Đức thần nào đó mà giải bớt lòng sầu lo của tôi như thế? Từ khi mẹ tôi mất đến nay, tôi thương nhớ ngày đêm, không biết đâu để hỏi cho rõ mẹ tôi thác sanh vào chốn nào?”."
+      },
+      {
+       "id": "q1.p1.s5.b7",
+       "type": "prose",
+       "text": "Trên hư không lại có tiếng bảo Thánh Nữ rằng: “Ta là đức Phật quá khứ Giác Hoa Định Tự Tại Vương Như Lai, mà ngươi đương chiêm bái đó. Thấy ngươi thương nhớ mẹ trội hơn thường tình của chúng sanh nên ta đến chỉ bảo”."
+      },
+      {
+       "id": "q1.p1.s5.b8",
+       "type": "prose",
+       "text": "Thánh Nữ nghe nói xong liền té xỉu xuống, tay chân mình mẩy đều bị tổn thương. Những người đứng bên vội vàng đỡ dậy, một lát sau Thánh Nữ mới tỉnh lại rồi bạch cùng trên hư không rằng: “Cúi xin đức Phật xót thương bảo ngay cho rõ chỗ thác sanh của mẹ con, nay thân tâm của con sắp chết mất!”."
+      },
+      {
+       "id": "q1.p1.s5.b9",
+       "type": "prose",
+       "text": "Đức Giác Hoa Định Tự Tại Vương Như Lai bảo Thánh Nữ rằng: “Cúng dường xong, ngươi mau mau trở về nhà, rồi ngồi ngay thẳng nghĩ tưởng danh hiệu của Ta, thời ngươi sẽ biết chỗ thác sanh của mẹ ngươi”."
+      },
+      {
+       "id": "q1.p1.s5.b10",
+       "type": "prose",
+       "text": "Lễ Phật xong, Thánh Nữ liền trở về nhà. Vì thương nhớ mẹ, nên Thánh Nữ ngồi ngay thẳng niệm danh hiệu của Giác Hoa Định Tự Tại Vương Như Lai trải suốt một ngày một đêm, bỗng thấy thân mình đến một bờ biển kia. Nước trong biển đó sôi sùng sục, có rất nhiều thú dữ thân thể toàn bằng sắt bay nhảy trên mặt biển, chạy rảo bên nầy, xua đuổi bên kia."
+      },
+      {
+       "id": "q1.p1.s5.b11",
+       "type": "prose",
+       "text": "Thấy những trai cùng gái số nhiều đến nghìn muôn thoạt chìm thoạt nổi ở trong biển, bị các thú dữ giành nhau ăn thịt."
+      },
+      {
+       "id": "q1.p1.s5.b12",
+       "type": "prose",
+       "text": "Lại thấy quỷ Dạ Xoa hình thù đều lạ lùng: Hoặc nhiều tay, nhiều mắt, nhiều chân, nhiều đầu... răng nanh chỉa ra ngoài miệng bén nhọn dường gươm, lùa những người tội gần thú dữ. Rồi quỷ lại chụp bắt người tội, túm quắp đầu chân người tội lại, hình trạng muôn thứ chẳng dám nhìn lâu."
+      },
+      {
+       "id": "q1.p1.s5.b13",
+       "type": "prose",
+       "text": "Khi ấy, Thánh Nữ nhờ nương sức niệm Phật nên tự nhiên không kinh sợ."
+      },
+      {
+       "id": "q1.p1.s5.b14",
+       "type": "prose",
+       "text": "Có một vị Quỷ Vương tên là Vô Độc, đến cúi đầu nghênh tiếp, hỏi Thánh Nữ rằng: “Hay thay Bồ Tát! Ngài có duyên sự gì đến chốn nầy?”."
+      },
+      {
+       "id": "q1.p1.s5.b15",
+       "type": "prose",
+       "text": "Thánh Nữ hỏi Quỷ Vương rằng: “Đây là chốn nào?”."
+      },
+      {
+       "id": "q1.p1.s5.b16",
+       "type": "prose",
+       "text": "Quỷ Vương Vô Độc đáp rằng: “Đây là từng biển thứ nhứt ở phía Tây núi đại Thiết Vi”."
+      },
+      {
+       "id": "q1.p1.s5.b17",
+       "type": "prose",
+       "text": "Thánh Nữ hỏi rằng: “Tôi nghe trong núi Thiết Vi có địa ngục, việc ấy có thiệt như thế chăng?”."
+      },
+      {
+       "id": "q1.p1.s5.b18",
+       "type": "verse",
+       "text": "Vô Độc đáp rằng: “Thiệt có địa ngục”."
+      },
+      {
+       "id": "q1.p1.s5.b19",
+       "type": "prose",
+       "text": "Thánh Nữ hỏi rằng: “Nay tôi làm sao để được đến chốn địa ngục đó?”."
+      },
+      {
+       "id": "q1.p1.s5.b20",
+       "type": "prose",
+       "text": "Vô Độc đáp rằng: “Nếu không phải sức oai thần, cần phải do nghiệp lực. Ngoài hai điều nầy ra ắt không bao giờ có thể đến đó được”."
+      },
+      {
+       "id": "q1.p1.s5.b21",
+       "type": "prose",
+       "text": "Thánh Nữ lại hỏi: “Duyên cớ vì sao mà nước trong biển nầy sôi sùng sục như thế, và có những người tội cùng với các thú dữ?”."
+      },
+      {
+       "id": "q1.p1.s5.b22",
+       "type": "prose",
+       "text": "Vô Độc đáp rằng: “Những người tội trong biển nầy là những kẻ tạo ác ở cõi Diêm Phù Đề mới chết, trong khoảng bốn mươi chín ngày không người kế tự để làm công đức hầu cứu vớt khổ nạn cho; lúc sống, kẻ đó lại không làm được nhơn lành nào cả."
+      },
+      {
+       "id": "q1.p1.s5.b23",
+       "type": "prose",
+       "text": "Vì thế nên cứ theo nghiệp ác của họ đã gây tạo mà cảm lấy báo khổ ở địa ngục, tự nhiên họ phải lội qua biển nầy."
+      },
+      {
+       "id": "q1.p1.s5.b24",
+       "type": "prose",
+       "text": "Cách biển nầy mười muôn do tuần về phía Đông lại có một cái biển, những sự thống khổ trong biển đó sắp bội hơn biển nầy."
+      },
+      {
+       "id": "q1.p1.s5.b25",
+       "type": "prose",
+       "text": "Phía Đông của biển đó lại có một cái biển nữa, sự thống khổ trong đó càng trội hơn."
+      },
+      {
+       "id": "q1.p1.s5.b26",
+       "type": "prose",
+       "text": "Đó đều là do những nghiệp nhơn xấu xa của ba nghiệp mà cảm vời ra, đồng gọi là biển nghiệp, chính là ba cái biển nầy vậy”."
+      },
+      {
+       "id": "q1.p1.s5.b27",
+       "type": "prose",
+       "text": "Thánh Nữ lại hỏi Quỷ Vương Vô Độc rằng: “Địa ngục ở đâu?”."
+      },
+      {
+       "id": "q1.p1.s5.b28",
+       "type": "prose",
+       "text": "Vô Độc đáp rằng: “Trong ba cái biển đó đều là địa ngục, nhiều đến số trăm nghìn, mỗi ngục đều khác nhau. Về địa ngục lớn thời có 18 chỗ, bực kế đó có 500 chỗ đủ không lường sự khổ sở, bực kế nữa có đến nghìn trăm cũng đầy không lường sự thống khổ”."
+      },
+      {
+       "id": "q1.p1.s5.b29",
+       "type": "prose",
+       "text": "Thánh Nữ lại hỏi đại Quỷ Vương rằng: “Thân Mẫu của tôi mới khuất gần đây, không rõ thần hồn của người phải sa vào chốn nào?”."
+      },
+      {
+       "id": "q1.p1.s5.b30",
+       "type": "prose",
+       "text": "Quỷ Vương hỏi Thánh Nữ rằng: “Thân mẫu của Bồ Tát khi còn sống, quen làm những nghiệp gì?”."
+      },
+      {
+       "id": "q1.p1.s5.b31",
+       "type": "prose",
+       "text": "Thánh Nữ đáp rằng: “Thân mẫu của tôi mê tín tà đạo, khinh chê ngôi Tam Bảo, hoặc có lúc tạm thời tin chánh pháp, xong rồi chẳng kính. Dầu khuất không bao lâu, mà chưa rõ đọa lạc vào đâu?”."
+      },
+      {
+       "id": "q1.p1.s5.b32",
+       "type": "prose",
+       "text": "Vô Độc hỏi rằng: “Thân mẫu của Bồ Tát tên họ là gì?”."
+      },
+      {
+       "id": "q1.p1.s5.b33",
+       "type": "prose",
+       "text": "Thánh Nữ đáp rằng: “Thân phụ và thân mẫu của tôi đều dòng dõi Bà La Môn. Thân phụ tôi là Thi La Thiện Kiến. Thân mẫu tôi hiệu là Duyệt Đế Lợi”."
+      },
+      {
+       "id": "q1.p1.s5.b34",
+       "type": "prose",
+       "text": "Vô Độc chắp tay thưa Thánh Nữ rằng: “Xin Thánh Nữ hãy trở về, chớ đem lòng thương nhớ buồn rầu quá lắm nữa. Tội nữ Duyệt Đế Lợi được sanh lên cõi Trời đến nay đã ba ngày rồi."
+      },
+      {
+       "id": "q1.p1.s5.b35",
+       "type": "prose",
+       "text": "Nghe nói nhờ con gái của người có lòng hiếu thuận, vì mẹ mà sắm sửa lễ vật, tu tạo phước lành, cúng dường chùa tháp, thờ đức Giác Hoa Định Tự Tại Vương Như Lai. Chẳng phải chỉ riêng thân mẫu của Bồ Tát đặng thoát khỏi địa ngục, mà ngày đó, những tội nhơn Vô Gián cũng đều được vui vẻ, đồng đặng thác sanh cả”."
+      },
+      {
+       "id": "q1.p1.s5.b36",
+       "type": "prose",
+       "text": "Nói xong, Quỷ Vương chắp tay chào Thánh Nữ mà cáo lui."
+      },
+      {
+       "id": "q1.p1.s5.b37",
+       "type": "prose",
+       "text": "Bấy giờ, Thánh Nữ dường chiêm bao chợt tỉnh, rõ biết việc đó rồi, bèn đối trước tháp tượng của đức Giác Hoa Định Tự Tại Vương Như Lai mà phát thệ nguyện rộng lớn rằng:"
+      },
+      {
+       "id": "q1.p1.s5.b38",
+       "type": "prose",
+       "text": "“Tôi nguyện từ nay nhẫn đến đời vị lai những chúng sanh mắc phải tội khổ, thì tôi lập ra nhiều phương chước làm cho chúng đó được giải thoát”."
+      },
+      {
+       "id": "q1.p1.s5.b39",
+       "type": "prose",
+       "text": "Đức Phật bảo Ngài Văn Thù Sư Lợi rằng: “Quỷ Vương Vô Độc trước đó nay chính ông Tài Thủ Bồ Tát. Còn Thánh Nữ Bà La Môn đó, nay là Địa Tạng Bồ Tát vậy”."
+      }
+     ],
+     "id": "q1.p1.s5"
+    }
+   ],
+   "id": "q1.p1"
+  },
+  {
+   "number": 2,
+   "title": "PHÂN THÂN TẬP HỘI",
+   "sections": [
+    {
+     "number": 1,
+     "title": "HÓA THÂN CÙNG QUYẾN THUỘC",
+     "blocks": [
+      {
+       "id": "q1.p2.s1.b1",
+       "type": "prose",
+       "text": "Lúc đó phân thân Địa Tạng Bồ Tát ở các nơi có địa ngục trăm nghìn muôn ức bất khả tư, bất khả nghị, bất khả lượng, bất khả thuyết, vô lượng vô số thế giới đều đến hội họp tại cung trời Đao Lợi."
+      },
+      {
+       "id": "q1.p2.s1.b2",
+       "type": "prose",
+       "text": "Do nhờ thần lực của Như Lai, phân thân đó hiệp với những chúng đã được giải thoát ra khỏi chốn nghiệp đạo ở mười phương, cũng đều đông đến số nghìn muôn ức na do tha, đồng cầm hương hoa đến cúng dường Phật."
+      },
+      {
+       "id": "q1.p2.s1.b3",
+       "type": "prose",
+       "text": "Những chúng cùng đến với phân thân đó, thảy đều nhờ Địa Tạng Bồ Tát giáo hóa làm cho trụ nơi đạo vô thượng chánh đẳng chánh giác trọn không còn thối chuyển."
+      },
+      {
+       "id": "q1.p2.s1.b4",
+       "type": "prose",
+       "text": "Những chúng đó từ kiếp lâu xa đến nay trôi lăn trong vòng sanh tử ở trong sáu đường, chịu những điều khổ sở không có lúc nào tạm ngừng dứt, nhờ lòng từ bi lớn và thệ nguyện sâu dày của ngài Địa Tạng Bồ Tát, nên tất cả đều chứng được đạo quả."
+      },
+      {
+       "id": "q1.p2.s1.b5",
+       "type": "prose",
+       "text": "Đại chúng đó khi đã đến cung trời Đao Lợi, lòng họ vui mừng hớn hở, chiêm ngưỡng đức Như Lai mắt nhìn mãi không rời."
+      }
+     ],
+     "id": "q1.p2.s1"
+    },
+    {
+     "number": 2,
+     "title": "ĐỨC NHƯ LAI AN ỦI ỦY THÁC",
+     "blocks": [
+      {
+       "id": "q1.p2.s2.b1",
+       "type": "prose",
+       "text": "Bấy giờ, Thế Tôn dơ tay sắc vàng xoa đảnh của hóa thân Địa Tạng đại Bồ Tát trong trăm nghìn muôn ức bất khả tư, bất khả nghị, bất khả lượng, bất khả thuyết, vô lượng vô số thế giới, mà dạy rằng: “Ta ở trong đời ác ngũ trược giáo hóa những chúng sanh cang cường như thế, làm cho lòng chúng nó điều phục bỏ tà về chánh; nhưng trong mười phần vẫn còn một hai phần chúng sanh quen theo tánh ác."
+      },
+      {
+       "id": "q1.p2.s2.b2",
+       "type": "prose",
+       "text": "Muốn độ chúng đó, ta cũng phân nghìn trăm ức thân lập ra nhiều phương chước. Trong chúng sanh đó, hoặc có người căn tánh sáng lẹ nghe Pháp của Ta thời liền tín nhận. Hoặc có người phải ân cần khuyên bảo mới thành tựu, được thiện quả. Hoặc có kẻ vì tội nghiệp quá nặng nên chẳng đem lòng kính tin ngưỡng mộ. Ta phân ra nhiều thân độ thoát những hạng chúng sanh mỗi mỗi sai khác như thế."
+      },
+      {
+       "id": "q1.p2.s2.b3",
+       "type": "verse",
+       "text": "Hoặc hiện ra thân trai,\nHoặc hiện ra thân gái,\nHoặc hiện ra thân Trời, Rồng,\nHoặc hiện ra thân Quỷ, Thần,"
+      },
+      {
+       "id": "q1.p2.s2.b4",
+       "type": "prose",
+       "text": "Hoặc hiện ra rừng, núi, sông, ngòi, ao, rạch, suối, làm lợi ích cho mọi người, để rồi độ họ được giải thoát."
+      },
+      {
+       "id": "q1.p2.s2.b5",
+       "type": "verse",
+       "text": "Hoặc hiện ra thân Thiên Đế,\nHoặc hiện ra thân Trời Phạm Vương,\nHoặc hiện ra thân vua Chuyển Luân,\nHoặc hiện ra thân Quốc Vương,\nHoặc hiện ra thân Cư Sĩ,\nHoặc hiện ra thân Tể Phụ,"
+      },
+      {
+       "id": "q1.p2.s2.b6",
+       "type": "prose",
+       "text": "Hoặc hiện ra thân các hàng quan thuộc,"
+      },
+      {
+       "id": "q1.p2.s2.b7",
+       "type": "prose",
+       "text": "Hoặc hiện ra thân Tỳ Kheo, Tỳ Kheo Ni, Ưu Bà Tắc, Ưu Bà Di."
+      },
+      {
+       "id": "q1.p2.s2.b8",
+       "type": "prose",
+       "text": "Nhẫn đến hiện ra những thân Thanh Văn, La Hán, Bích Chi Phật và Bồ Tát để hóa độ chúng sanh, chớ chẳng phải chỉ có thân Phật hiện ra trước chúng thôi đâu!"
+      },
+      {
+       "id": "q1.p2.s2.b9",
+       "type": "prose",
+       "text": "Địa Tạng! Ông xem ta đã trải qua bao số kiếp nhọc nhằn độ thoát những chúng sanh cang cường đầy tội khổ khó khai hóa như thế. Ngoài ra những kẻ chưa điều phục được, thời phải theo nghiệp thọ báo."
+      },
+      {
+       "id": "q1.p2.s2.b10",
+       "type": "prose",
+       "text": "Nếu khi chúng đó có bị đọa vào đường dữ chịu nhiều sự thống khổ, thời ông nên nghĩ nhớ Ta ở cung Trời Đao Lợi ân cần phó chúc đây mà gắng độ chúng sanh, làm cho chúng sanh trong cõi Ta Bà nầy đến lúc Phật Di Lặc ra đời, đều đặng giải thoát, khỏi hẳn các điều khổ, gặp Phật, được đức Phật thọ ký”."
+      },
+      {
+       "id": "q1.p2.s2.b11",
+       "type": "prose",
+       "text": "Bấy giờ, những hóa thân Địa Tạng Bồ Tát ở các thế giới hiệp chung lại một hình, rơi lệ thương cảm mà bạch cùng đức Phật rằng: “Từ số kiếp lâu xa đến nay, con nhờ đức Thế Tôn tiếp độ dắt dìu làm cho con được thần lực chẳng thể nghĩ bàn, đầy đủ trí huệ rộng lớn."
+      },
+      {
+       "id": "q1.p2.s2.b12",
+       "type": "prose",
+       "text": "Con phân hiện thân hình ra ở cùng khắp trăm nghìn muôn ức Hằng hà sa thế giới. Trong mỗi thế giới hóa hiện trăm nghìn muôn ức thân. Mỗi thân đó hóa độ trăm nghìn muôn ức người làm cho quy kính ngôi Tam Bảo, khỏi hẳn vòng sanh tử hưởng vui Niết Bàn."
+      },
+      {
+       "id": "q1.p2.s2.b13",
+       "type": "prose",
+       "text": "Những chúng sanh nào ở nơi Phật Pháp chỉ làm việc lành bằng một sợi lông, một giọt nước, một hột cát, một bụi nhỏ, hoặc chỉ bằng chừng mảy lông tóc, con đều độ thoát lần lần, làm cho chúng đó được lợi ích lớn."
+      },
+      {
+       "id": "q1.p2.s2.b14",
+       "type": "prose",
+       "text": "Cúi mong đức Như Lai chớ vì những chúng sanh ác nghiệp trong đời sau mà sanh lòng lo lắng!... Cúi mong đức Như Lai chớ vì những chúng sanh ác nghiệp trong đời sau mà sanh lòng lo lắng!...” Ngài Địa Tạng Bồ Tát bạch cùng đức Phật ba lần như thế."
+      },
+      {
+       "id": "q1.p2.s2.b15",
+       "type": "prose",
+       "text": "Lúc ấy, đức Phật khen ngài Địa Tạng Bồ Tát rằng: “Hay thay! Hay thay! Ta hộ trợ cho ông được toại nguyện! Từ số kiếp lâu xa đến nay thường phát nguyện rộng lớn, cứu độ tất cả chúng sanh xong rồi, thời ông liền chứng quả Bồ Đề”."
+      }
+     ],
+     "id": "q1.p2.s2"
+    }
+   ],
+   "id": "q1.p2"
+  },
+  {
+   "number": 3,
+   "title": "QUÁN CHÚNG SANH NGHIỆP DUYÊN",
+   "sections": [
+    {
+     "number": 1,
+     "title": "PHẬT MẪU THƯA HỎI",
+     "blocks": [
+      {
+       "id": "q1.p3.s1.b1",
+       "type": "prose",
+       "text": "Lúc đó, đức Phật Mẫu là bà Ma Da Phu Nhơn chắp tay cung kính mà hỏi ngài Địa Tạng Bồ tát: “Thánh Giả! Chúng sanh trong cõi Diêm Phù Đề tạo nghiệp sai khác, cảm thọ quả báo ra thế nào?”"
+      },
+      {
+       "id": "q1.p3.s1.b2",
+       "type": "prose",
+       "text": "Ngài Địa Tạng Bồ tát đáp rằng: “Trong nghìn muôn thế giới cho đến quốc độ, hoặc nơi thời có địa ngục, nơi thời không địa ngục, hoặc nơi thời có hàng nữ nhơn, nơi thời không có hàng nữ nhơn, hoặc nơi Phật pháp, nơi thời không Phật pháp, nhẫn đến bực Thanh Văn và Bích Chi Phật v.v... Cũng sai khác như thế, chớ chẳng phải riêng tội báo nơi địa ngục sai khác thôi đâu!”"
+      },
+      {
+       "id": "q1.p3.s1.b3",
+       "type": "prose",
+       "text": "Bà Ma Da Phu Nhơn lại bạch cùng Bồ tát rằng: “Tôi muốn nghe tội báo trong cõi Diêm Phù Đề chiêu cảm lấy ác đạo”."
+      },
+      {
+       "id": "q1.p3.s1.b4",
+       "type": "prose",
+       "text": "Ngài Địa Tạng đáp rằng: “Thánh Mẫu! Trông mong Ngài lóng nghe nhận lấy, Tôi sẽ lược nói việc đó”."
+      },
+      {
+       "id": "q1.p3.s1.b5",
+       "type": "prose",
+       "text": "Thánh Mẫu bạch rằng: “Xin Thánh Giả nói cho”."
+      }
+     ],
+     "id": "q1.p3.s1"
+    },
+    {
+     "number": 2,
+     "title": "BỒ TÁT LƯỢC THUẬT",
+     "blocks": [
+      {
+       "id": "q1.p3.s2.b1",
+       "type": "prose",
+       "text": "Bây giờ, ngài Địa Tạng Bồ tát thưa Thánh Mẫu rằng: “Danh hiệu của những tội báo trong cõi Nam Diêm Phù Đề như dưới đây:"
+      },
+      {
+       "id": "q1.p3.s2.b2",
+       "type": "prose",
+       "text": "Như có chúng sanh chẳng hiếu thảo với cha mẹ, cho đến giết hại cha mẹ, kẻ đó phải đọa vào Vô Gián địa ngục mãi đến nghìn muôn ức kiếp không lúc nào mong ra khỏi được."
+      },
+      {
+       "id": "q1.p3.s2.b3",
+       "type": "prose",
+       "text": "Như có chúng sanh nào có lòng ác, làm thân Phật bị thương chảy máu, khinh chê ngôi Tam Bảo, chẳng kính kinh điển, cũng phải đọa vào Vô Gián địa ngục, trong nghìn muôn ức kiếp không khi nào ra khỏi được."
+      },
+      {
+       "id": "q1.p3.s2.b4",
+       "type": "prose",
+       "text": "Hoặc có chúng sanh xâm tổn của thường trụ, ô phạm Tăng, Ni, hoặc tứ tình làm sự dâm loạn trong chốn chùa chiền, hoặc giết, hoặc hại... Những chúng sanh đó phải đọa vào Vô Gián địa ngục, trong nghìn muôn ức kiếp không lúc nào mong ra khỏi được."
+      },
+      {
+       "id": "q1.p3.s2.b5",
+       "type": "prose",
+       "text": "Như có chúng sanh giả làm thầy Sa Môn kỳ thật tâm chẳng phải Sa Môn, lạm dụng của thường trụ, trái phạm giới luật, gạt gẫm hàng bạch y, tạo nhiều điều tội ác. Hạng người như thế phải đọa vào Vô Gián địa ngục, trong nghìn muôn ức kiếp không lúc nào mong ra khỏi được."
+      },
+      {
+       "id": "q1.p3.s2.b6",
+       "type": "prose",
+       "text": "Hoặc có chúng sanh trộm cắp những tài vật lúa gạo, đồ ăn uống, y phục v.v... của thường trụ, cho đến không cho mà lấy một vật, kẻ đó phải đọa vào Vô Gián địa ngục trong nghìn muôn ức kiếp không lúc nào mong ra khỏi được”."
+      },
+      {
+       "id": "q1.p3.s2.b7",
+       "type": "prose",
+       "text": "Ngài Địa Tạng Bồ Tát thưa rằng: “Thánh Mẫu! Nếu có chúng sanh nào phạm những tội như trên đó thời phải đọa vào địa ngục ngũ Vô Gián, cầu tạm ngừng sự đau khổ chừng khoảng một niệm cũng không được”."
+      },
+      {
+       "id": "q1.p3.s2.b8",
+       "type": "prose",
+       "text": "Bà Ma Da Phu Nhơn lại bạch cùng Địa Tạng Bồ Tát: “Thế nào gọi là Vô Gián địa ngục?”."
+      },
+      {
+       "id": "q1.p3.s2.b9",
+       "type": "prose",
+       "text": "Ngài Địa Tạng Bồ Tát thưa rằng: “Thánh Mẫu! Bao nhiêu địa ngục ở trong núi Thiết Vi, lớn có 18 chỗ, thứ kế đó 500 chỗ danh hiệu đều riêng khác nhau, thứ kế lại có nghìn trăm danh hiệu cũng đều riêng khác nhau."
+      },
+      {
+       "id": "q1.p3.s2.b10",
+       "type": "prose",
+       "text": "Nói về địa ngục Vô Gián đó, giáp vòng ngục thành hơn tám muôn dặm, thành đó thuần bằng sắt cao đến một muôn dặm. Lửa cháy trên thành không có chỗ nào hở trống. Trong ngục thành đó có các nhà ngục liên tiếp nhau đều có danh hiệu sai khác."
+      },
+      {
+       "id": "q1.p3.s2.b11",
+       "type": "prose",
+       "text": "Riêng có một sở ngục tên là Vô Gián. Ngục nầy châu vi một muôn tám nghìn dặm, tường ngục cao một nghìn dặm, toàn bằng sắt cả. Lửa cháy hực hở suốt trên suốt dưới. Trên tường ngục rắn sắt, chó sắt, phun lửa đuổi nhau chạy bên nầy sang bên kia."
+      },
+      {
+       "id": "q1.p3.s2.b12",
+       "type": "prose",
+       "text": "Trong ngục có giường rộng khắp muôn dặm. Một người thọ tội thời tự thấy thân mình nằm đầy chật cả giường, đến nghìn muôn người thọ tội cũng đều tự thấy thân của mình nằm chật cả trên giường. Đó là do vì những tội nghiệp đã tạo ra nó cảm vời như thế."
+      },
+      {
+       "id": "q1.p3.s2.b13",
+       "type": "prose",
+       "text": "Lại những người tội chịu đủ sự khổ sở: Trăm nghìn quỷ Dạ Xoa cùng với loài ác quỷ, răng nanh bén nhọn dường gươm, cặp mắt chói sáng như chớp nhoáng, móng tay cứng như đồng, móc ruột bằm chặt."
+      },
+      {
+       "id": "q1.p3.s2.b14",
+       "type": "prose",
+       "text": "Lại có quỷ Dạ Xoa khác cầm chỉa lớn bằng sắt đâm vào mình người tội, hoặc đâm trúng miệng mũi, hoặc đâm trúng bụng lưng... Rồi dồi lên trên không, lấy chỉa hứng lấy để lại trên giường. Lại có diều hâu bằng sắt mổ mắt người tội. Lại có rắn sắt cắn đầu người tội. Nơi lóng đốt khắp trong thân thể đều lấy đinh dài đóng xuống giường, kéo lưỡi ra rồi cày bừa trên đó, lôi kéo người tội, nước đồng đổ vào miệng, dây sắt nóng đỏ quấn lấy thân người tội, một ngày một đêm, muôn lần chết muôn lần sống lại. Do vì tội nghiệp mà cảm lấy như thế, trải qua ức kiếp, không lúc nào mong ra khỏi được."
+      },
+      {
+       "id": "q1.p3.s2.b15",
+       "type": "prose",
+       "text": "Lúc thế giới nầy hư hoại thời sanh nhờ qua địa ngục ở thế giới khác. Lúc thế giới khác đó hư hoại thời lại sanh vào cõi khác nữa. Lúc cõi khác đó hư hoại thời cũng xoay vần sanh vào cõi khác. Đến khi thế giới nầy thành xong thời sanh trở về thế giới nầy. Những sự tội báo trong ngục Vô Gián như thế đó."
+      },
+      {
+       "id": "q1.p3.s2.b16",
+       "type": "prose",
+       "text": "Lại địa ngục đó do có năm điều nghiệp cảm, nên kêu là Vô Gián. Năm điều đó là những gì?"
+      },
+      {
+       "id": "q1.p3.s2.b17",
+       "type": "list_item",
+       "text": "1. Tội nhơn trong đó chịu khổ ngày"
+      },
+      {
+       "id": "q1.p3.s2.b18",
+       "type": "prose",
+       "text": "lẫn đêm, cho đến trải qua số kiếp không lúc nào ngừng ngớt, nên gọi là Vô Gián."
+      },
+      {
+       "id": "q1.p3.s2.b19",
+       "type": "list_item",
+       "text": "2. Một người tội thân đầy chật cả"
+      },
+      {
+       "id": "q1.p3.s2.b20",
+       "type": "prose",
+       "text": "ngục, nhiều người tội mỗi mỗi thân cũng đều đầy chật cả ngục, nên gọi là Vô Gián."
+      },
+      {
+       "id": "q1.p3.s2.b21",
+       "type": "list_item",
+       "text": "3. Những khí cụ để hành hình tội"
+      },
+      {
+       "id": "q1.p3.s2.b22",
+       "type": "prose",
+       "text": "nhơn như chĩa ba, gậy, diều hâu, rắn, sói, chó, cối giã, cối xay, cưa, đục, dao mác, chảo dầu sôi, lưới sắt, dây sắt, lừa sắt, ngựa sắt, da sống niền đầu, nước sắt nóng rưới thân, đói thời ăn hoàn sắt nóng, khát thời uống nước sắt sôi. Từ năm trọn kiếp, đến vô số kiếp những sự khổ sở nối nhau luôn không một giây ngừng ngớt nên gọi là Vô Gián."
+      },
+      {
+       "id": "q1.p3.s2.b23",
+       "type": "list_item",
+       "text": "4. Không luận là trai hay gái, Mường,"
+      },
+      {
+       "id": "q1.p3.s2.b24",
+       "type": "prose",
+       "text": "Mán, Mọi rợ, già trẻ, sang hèn, hoặc là Rồng, là Trời, hoặc là Thần, là Quỷ, hễ gây tội ác theo đó mà cảm lấy, tất cả đều đồng chịu khổ, nên gọi là Vô Gián."
+      },
+      {
+       "id": "q1.p3.s2.b25",
+       "type": "list_item",
+       "text": "5. Nếu người nào bị đọa vào địa ngục"
+      },
+      {
+       "id": "q1.p3.s2.b26",
+       "type": "prose",
+       "text": "đó, thời từ khi mới vào cho đến trăm nghìn kiếp mỗi một ngày đêm muôn lần chết, muôn lần sống lại, muốn cầu tạm ngừng chừng khoảng một niệm cũng không đặng, trừ khi tội nghiệp tiêu hết mới đặng thọ sanh. Do vì lẽ liên miên mãi nên gọi là Vô Gián."
+      },
+      {
+       "id": "q1.p3.s2.b27",
+       "type": "prose",
+       "text": "Ngài Địa Tạng Bồ Tát thưa Thánh Mẫu rằng: “Nói sơ lược về địa ngục Vô Gián như thế. Nếu nói rộng ra thời tên của những khí cụ để hành tội cùng những sự thống khổ trong địa ngục đó, dầu đến suốt một kiếp cũng không thể nào nói cho hết được”."
+      },
+      {
+       "id": "q1.p3.s2.b28",
+       "type": "prose",
+       "text": "Bà Ma Da Phu Nhơn nghe ngài Địa Tạng Bồ Tát nói xong, không xiết lo rầu. Bà chắp tay đảnh lễ Bồ Tát mà lui ra."
+      }
+     ],
+     "id": "q1.p3.s2"
+    }
+   ],
+   "id": "q1.p3"
+  },
+  {
+   "number": 4,
+   "title": "NGHIỆP CẢM CỦA CHÚNG SANH",
+   "sections": [
+    {
+     "number": 1,
+     "title": "BỒ TÁT VÂNG CHỈ",
+     "blocks": [
+      {
+       "id": "q1.p4.s1.b1",
+       "type": "prose",
+       "text": "Lúc đó, ngài Địa Tạng đại Bồ Tát bạch cùng đức Phật rằng: “Bạch Thế Tôn! Con nương sức oai thần của đức Như Lai, nên chia thân hình nầy ở khắp trăm nghìn muôn ức thế giới, để cứu vớt tất cả chúng sanh bị nghiệp báo."
+      },
+      {
+       "id": "q1.p4.s1.b2",
+       "type": "prose",
+       "text": "Nếu không nhờ sức đại từ của đức Như Lai, thời chẳng có thể biến hóa ra như thế được. Nay con lại được Như Lai phó chúc: Từ nay đến khi Ngài A Dật Đa thành Phật, làm cho chúng sanh trong sáu đường đều đặng độ thoát. Xin vâng! Bạch đức Thế Tôn! Xin đức Thế Tôn chớ lo!”."
+      },
+      {
+       "id": "q1.p4.s1.b3",
+       "type": "prose",
+       "text": "Bấy giờ đức Phật bảo ngài Địa Tạng Bồ Tát rằng: “Những chúng sanh mà chưa được giải thoát, tánh thức của nó không định, hễ quen làm dữ thời kết thành nghiệp báo dữ, còn quen làm lành thời kết thành quả báo lành."
+      },
+      {
+       "id": "q1.p4.s1.b4",
+       "type": "prose",
+       "text": "Làm lành cùng làm dữ tùy theo cảnh duyên mà sanh ra, lăn mãi trong năm đường không lúc nào tạm ngừng ngớt, mê lầm chướng nạn trải đến kiếp số nhiều như vi trần."
+      },
+      {
+       "id": "q1.p4.s1.b5",
+       "type": "prose",
+       "text": "Ví như loài cá bơi lội trong lưới theo dòng nước chảy, thoạt hoặc tạm được ra, rồi lại mắc vào lưới. Vì thế nên ta phải lo nghĩ đến những chúng sanh đó."
+      },
+      {
+       "id": "q1.p4.s1.b6",
+       "type": "prose",
+       "text": "Đời trước ông trót đã lập nguyện trải qua nhiều kiếp phát thệ rộng lớn độ hết cả hàng chúng sanh bị tội khổ, thời Ta còn lo gì!”"
+      }
+     ],
+     "id": "q1.p4.s1"
+    },
+    {
+     "number": 2,
+     "title": "ĐỊNH TỰ TẠI VƯƠNG BẠCH HỎI",
+     "blocks": [
+      {
+       "id": "q1.p4.s2.b1",
+       "type": "prose",
+       "text": "Khi đức Phật dạy lời như thế xong, trong Pháp hội có vị Đại Bồ Tát hiệu là Định Tự Tại Vương ra bạch cùng đức Phật rằng:"
+      },
+      {
+       "id": "q1.p4.s2.b2",
+       "type": "prose",
+       "text": "“Bạch Thế Tôn! Từ nhiều kiếp đến nay, ngài Địa Tạng Bồ Tát đã phát thệ nguyện gì, mà nay được đức Thế Tôn ân cần ngợi khen như thế? Cúi mong đức Thế Tôn lược nói cho”."
+      },
+      {
+       "id": "q1.p4.s2.b3",
+       "type": "prose",
+       "text": "Bấy giờ, đức Thế Tôn bảo Ngài Định Tự Tại Vương Bồ tát: “Lóng nghe! Lóng nghe! Phải khéo suy xét đó, Ta sẽ vì ông mà giải bày rõ ràng."
+      }
+     ],
+     "id": "q1.p4.s2"
+    },
+    {
+     "number": 3,
+     "title": "ÔNG VUA NƯỚC LÂN CẬN",
+     "blocks": [
+      {
+       "id": "q1.p4.s3.b1",
+       "type": "prose",
+       "text": "Vô lượng vô số na do tha bất khả thuyết kiếp về thuở trước, lúc đó, có đức Phật ra đời hiệu là Nhứt Thiết Trí Thành Tựu Như Lai, Ứng Cúng, Chánh Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhơn Sư, Phật, Thế Tôn."
+      },
+      {
+       "id": "q1.p4.s3.b2",
+       "type": "prose",
+       "text": "Đức Phật đó thọ sáu muôn kiếp. Khi Ngài chưa xuất gia, thời Ngài làm Vua một nước nhỏ kia, kết bạn cùng với Vua nước lân cận; hai Vua đồng thật hành mười hạnh lành làm lợi ích cho nhơn dân."
+      },
+      {
+       "id": "q1.p4.s3.b3",
+       "type": "prose",
+       "text": "Nhơn dân trong nước lân cận đó phần nhiều tạo những việc ác. Hai Vua cùng nhau bàn tính tìm những phương chước để dắt dìu dân chúng ấy."
+      },
+      {
+       "id": "q1.p4.s3.b4",
+       "type": "prose",
+       "text": "Một ông phát nguyện: “Tôi nguyện sớm thành Phật sẽ độ dân chúng ấy làm cho đều được giải thoát không còn thừa”."
+      },
+      {
+       "id": "q1.p4.s3.b5",
+       "type": "prose",
+       "text": "Một ông phát nguyện: “Như tôi chẳng trước độ những kẻ tội khổ làm cho đều đặng an vui chứng quả Bồ Đề, thời tôi nguyện chưa chịu thành Phật”."
+      },
+      {
+       "id": "q1.p4.s3.b6",
+       "type": "prose",
+       "text": "Đức Phật bảo Ngài Định Tự Tại Vương Bồ tát rằng: “Ông Vua phát nguyện sớm thành Phật đó, chính là đức Nhứt Thiết Trí Thành Tựu Như Lai."
+      },
+      {
+       "id": "q1.p4.s3.b7",
+       "type": "prose",
+       "text": "Còn ông vua phát nguyện độ chưa hết những chúng sanh tội khổ thời chưa nguyện thành Phật đó, chính là ngài Địa Tạng Bồ tát đây vậy."
+      }
+     ],
+     "id": "q1.p4.s3"
+    },
+    {
+     "number": 4,
+     "title": "QUANG MỤC CỨU MẸ",
+     "blocks": [
+      {
+       "id": "q1.p4.s4.b1",
+       "type": "prose",
+       "text": "Lại vô lượng vô số kiếp về thuở trước, có đức Phật ra đời, hiệu là Liên Hoa Mục Như Lai. Đức Phật đó thọ bốn mươi kiếp."
+      },
+      {
+       "id": "q1.p4.s4.b2",
+       "type": "prose",
+       "text": "Trong thời mạt pháp, có một vị La Hán phước đức cứu độ chúng sanh. Nhơn vì đi tuần tự giáo hóa mọi người, La Hán gặp một người nữ tên là Quang Mục, nàng nầy sắm sửa đồ ăn cúng dường La Hán."
+      },
+      {
+       "id": "q1.p4.s4.b3",
+       "type": "prose",
+       "text": "La Hán thọ cúng rồi hỏi: “Nàng muốn những gì?”"
+      },
+      {
+       "id": "q1.p4.s4.b4",
+       "type": "prose",
+       "text": "Quang Mục thưa rằng: “Ngày thân mẫu tôi khuất, tôi làm việc phước thiện để nhờ đó mà cứu vớt thân mẫu tôi, chẳng rõ thân mẫu tôi thác sanh vào đường nào?”"
+      },
+      {
+       "id": "q1.p4.s4.b5",
+       "type": "prose",
+       "text": "La Hán nghe nói cảm thương bèn nhập định quan sát, thời thấy bà mẹ của Quang Mục đọa vào chốn địa ngục rất là khổ sở."
+      },
+      {
+       "id": "q1.p4.s4.b6",
+       "type": "prose",
+       "text": "La Hán hỏi Quang Mục rằng: “Thân mẫu người lúc sanh tiền đã làm những hạnh nghiệp gì, mà nay phải đọa vào chốn địa ngục rất khổ sở như thế?”"
+      },
+      {
+       "id": "q1.p4.s4.b7",
+       "type": "prose",
+       "text": "Quang Mục thưa rằng: “Ngày còn sống, thân mẫu tôi chỉ ưa ăn thịt loài cá trạnh, phần nhiều là hay ăn cá con và trạnh con, hoặc chiên, hoặc nấu, tha hồ mà ăn cho thỏa mãn."
+      },
+      {
+       "id": "q1.p4.s4.b8",
+       "type": "prose",
+       "text": "Nếu tính đếm số cá trạnh của người đã ăn thời đến hơn nghìn muôn. Xin Tôn Giả thương xót chỉ dạy phải làm cách nào để cứu thân mẫu tôi?”"
+      },
+      {
+       "id": "q1.p4.s4.b9",
+       "type": "prose",
+       "text": "La Hán xót thương bèn dạy phương chước, ngài khuyên Quang Mục rằng: “Ngươi phải đem lòng chí thành mà niệm đức Thanh Tịnh Liên Hoa Mục Như Lai, và vẽ đắp hình tượng đức Phật, thời kẻ còn cùng người mất đều được phước lợi!”"
+      },
+      {
+       "id": "q1.p4.s4.b10",
+       "type": "prose",
+       "text": "Quang Mục nghe xong, liền xuất tiền của, họa tượng Phật mà thờ cúng. Nàng lại đem lòng cung kính, khóc than chiêm ngưỡng đảnh lễ tượng Phật."
+      },
+      {
+       "id": "q1.p4.s4.b11",
+       "type": "prose",
+       "text": "Đêm đó, nàng chiêm bao thấy thân của đức Phật sắc vàng sáng chói như hòn núi Tu Di. Đức Phật phóng ánh sáng mà bảo Quang Mục rằng: “Chẳng bao lâu đây thân mẫu ngươi sẽ thác sanh vào trong nhà của ngươi, khi vừa biết đói lạnh thời liền biết nói”."
+      },
+      {
+       "id": "q1.p4.s4.b12",
+       "type": "prose",
+       "text": "Sau đó, đứa tớ gái trong nhà sanh một đứa con trai, chưa đầy ba ngày đã biết nói. Trẻ đó buồn khóc mà nói với Quang Mục rằng:"
+      },
+      {
+       "id": "q1.p4.s4.b13",
+       "type": "prose",
+       "text": "“Nghiệp duyên trong vòng sanh tử phải tự lãnh lấy quả báo. Tôi là mẹ của người, lâu nay ở chốn tối tăm. Từ khi vĩnh biệt người, tôi phải đọa vào đại địa ngục."
+      },
+      {
+       "id": "q1.p4.s4.b14",
+       "type": "prose",
+       "text": "Nhờ phước lực của người, nên nay được thọ sanh làm kẻ hạ tiện, lại thêm số mạng ngắn ngủi, năm mười ba tuổi đây sẽ bị đọa vào địa ngục nữa. Người có phương thế gì làm cho tôi được thoát khỏi nỗi khổ sở?”"
+      },
+      {
+       "id": "q1.p4.s4.b15",
+       "type": "prose",
+       "text": "Nghe đứa trẻ nói, Quang Mục biết chắc là mẹ mình. Nàng nghẹn ngào khóc lóc mà nói với đứa trẻ rằng: “Đã là mẹ của tôi, thời phải tự biết tội của mình, đã gây tạo hạnh nghiệp chi mà bị đọa vào địa ngục như thế?”"
+      },
+      {
+       "id": "q1.p4.s4.b16",
+       "type": "prose",
+       "text": "Đứa trẻ đáp rằng: “Do hai nghiệp: giết hại sanh vật và chê bai mắng nhiếc, mà thọ báo khổ. Nếu không nhờ phước đức của người cứu nạn cho tôi, thời cứ theo tội nghiệp đó vẫn còn chưa được thoát khổ”."
+      },
+      {
+       "id": "q1.p4.s4.b17",
+       "type": "prose",
+       "text": "Quang Mục hỏi rằng: “Những việc tội báo trong địa ngục ra làm sao?”"
+      },
+      {
+       "id": "q1.p4.s4.b18",
+       "type": "prose",
+       "text": "Đứa trẻ đáp rằng: “Những việc tội khổ nói ra càng bất nhẫn, dầu đến trăm nghìn năm cũng không thuật hết được."
+      },
+      {
+       "id": "q1.p4.s4.b19",
+       "type": "prose",
+       "text": "Quang Mục nghe xong, than khóc rơi lệ mà bạch cùng giữa hư không rằng:"
+      },
+      {
+       "id": "q1.p4.s4.b20",
+       "type": "prose",
+       "text": "“Nguyện cho thân mẫu tôi khỏi hẳn địa ngục khi mãn mười ba tuổi không còn có trọng tội cùng không còn đọa vào ác đạo nữa."
+      },
+      {
+       "id": "q1.p4.s4.b21",
+       "type": "prose",
+       "text": "Xin chư Phật trong mười phương thương xót chứng minh cho tôi, vì mẹ mà tôi phát nguyện rộng lớn như vầy:"
+      },
+      {
+       "id": "q1.p4.s4.b22",
+       "type": "prose",
+       "text": "Như thân mẫu tôi khỏi hẳn chốn tam đồ và hạng hạ tiện cùng thân gái, cùng kiếp không còn thọ những quả báo xấu đó nữa, tôi đối trước tượng của đức Thanh Tịnh Liên Hoa Mục Như Lai mà phát lời nguyện rằng: Từ ngày nay nhẫn về sau đến trăm nghìn muôn ức kiếp trong những thế giới nào mà các hàng chúng sanh bị tội khổ nơi địa ngục cùng ba ác đạo, tôi nguyện cứu vớt chúng đó làm cho tất cả đều thoát khỏi chốn ác đạo: địa ngục, súc sanh, và ngạ quỷ v.v..."
+      },
+      {
+       "id": "q1.p4.s4.b23",
+       "type": "prose",
+       "text": "Những kẻ mắc phải tội báo như thế thành Phật cả rồi, vậy sau tôi mới thành bực Chánh Giác.”"
+      },
+      {
+       "id": "q1.p4.s4.b24",
+       "type": "prose",
+       "text": "Quang Mục phát nguyện đó xong, liền nghe tiếng của đức Phật Thanh Tịnh Liên Hoa Mục Như Lai dạy rằng: “Nầy Quang Mục! Nhà ngươi rất có lòng từ mẫn, vì mẹ mà phát ra lời thệ nguyện rộng lớn như thế, thật là hay lắm!"
+      },
+      {
+       "id": "q1.p4.s4.b25",
+       "type": "prose",
+       "text": "Ta quan sát thấy mẹ nhà ngươi lúc mãn mười ba tuổi, khi bỏ báo thân nầy sẽ thác sanh làm người Phạm Chí sống lâu trăm tuổi."
+      },
+      {
+       "id": "q1.p4.s4.b26",
+       "type": "prose",
+       "text": "Sau đó vãng sanh về cõi nước Vô Ưu sống lâu đến số không thể tính kể."
+      },
+      {
+       "id": "q1.p4.s4.b27",
+       "type": "prose",
+       "text": "Sau rốt sẽ thành Phật độ nhiều hạng người, Trời, số đông như số cát sông Hằng”."
+      },
+      {
+       "id": "q1.p4.s4.b28",
+       "type": "prose",
+       "text": "Đức Phật bảo ngài Định Tự Tại Vương Bồ Tát rằng: “Vị La Hán phước lành độ Quang Mục thuở đó, chính là Vô Tận Ý Bồ Tát. Thân mẫu của Quang Mục là ngài Giải Thoát Bồ Tát."
+      },
+      {
+       "id": "q1.p4.s4.b29",
+       "type": "prose",
+       "text": "Còn Quang Mục thời là ngài Địa Tạng Bồ Tát đây vậy. Trong nhiều kiếp lâu xa về trước ngài có lòng từ mẫn, phát ra Hằng hà sa số lời thệ nguyện độ khắp chúng sanh như thế."
+      },
+      {
+       "id": "q1.p4.s4.b30",
+       "type": "prose",
+       "text": "Trong đời sau, như có chúng sanh không làm lành, mà làm ác, nhẫn đến kẻ chẳng tin luật nhơn quả, kẻ tà dâm, vọng ngữ, kẻ lưỡng thiệt, ác khẩu, kẻ hủy báng Đại Thừa. Những chúng sanh có tội nghiệp như thế chắc phải bị đọa vào ác đạo."
+      },
+      {
+       "id": "q1.p4.s4.b31",
+       "type": "prose",
+       "text": "Nếu gặp được hàng thiện tri thức khuyên bảo quy y với ngài Địa Tạng Bồ Tát chừng trong khoảng khảy móng tay, những chúng sanh đó liền đặng thoát khỏi báo khổ nơi ba ác đạo."
+      },
+      {
+       "id": "q1.p4.s4.b32",
+       "type": "prose",
+       "text": "Nếu người nào có thể quy kính và chiêm ngưỡng đảnh lễ ngợi khen, cùng dưng cúng những y phục, đồ ăn vật uống, các thứ trân bảo... Thời người đó, trong trăm nghìn muôn ức kiếp sau, thường ở cõi trời hưởng thọ sự vui thắng diệu."
+      },
+      {
+       "id": "q1.p4.s4.b33",
+       "type": "prose",
+       "text": "Hoặc lúc phước trời hết, sanh xuống chốn nhơn gian, vẫn còn thường làm vị Đế Vương trong trăm nghìn kiếp, lại nhớ được cội ngành nhơn quả trong các đời trước của mình."
+      },
+      {
+       "id": "q1.p4.s4.b34",
+       "type": "prose",
+       "text": "Nầy Định Tự Tại Vương! Ngài Địa Tạng Bồ Tát có sức oai thần rất lớn không thể nghĩ bàn, nhiều sự lợi ích cho chúng sanh như thế. Các ông, những bực Bồ Tát, phải ghi nhớ kinh nầy hầu tuyên truyền lưu bố rộng ra”."
+      },
+      {
+       "id": "q1.p4.s4.b35",
+       "type": "prose",
+       "text": "Ngài Định Tự Tại Vương bạch đức Phật rằng: “Bạch đức Thế Tôn! Xin Phật chớ lo! Nghìn muôn ức đại Bồ tát chúng con đều có thể nương oai thần của Phật mà tuyên lưu rộng kinh nầy nơi cõi Diêm Phù Đề để cho lợi ích chúng sanh”."
+      },
+      {
+       "id": "q1.p4.s4.b36",
+       "type": "prose",
+       "text": "Ngài Định Tự Tại Vương Bồ Tát bạch với đức Phật xong, bèn cung kính chắp tay lễ Phật mà lui ra."
+      }
+     ],
+     "id": "q1.p4.s4"
+    },
+    {
+     "number": 5,
+     "title": "TỨ THIÊN VƯƠNG HỎI PHẬT",
+     "blocks": [
+      {
+       "id": "q1.p4.s5.b1",
+       "type": "prose",
+       "text": "Bấy giờ, bốn ông Thiên Vương đồng từ chỗ ngồi đứng dậy cung kính chắp tay mà bạch cùng đức Phật rằng: “Bạch đức Thế Tôn! Ngài Địa Tạng Bồ Tát từ kiếp lâu xa nhẫn lại đã phát nguyện rộng lớn như thế, tại sao ngày nay mà vẫn độ chưa hết, ngài lại còn phải phát lời nguyện rộng lớn nữa? Cúi mong đức Thế Tôn dạy cho chúng con rõ”."
+      },
+      {
+       "id": "q1.p4.s5.b2",
+       "type": "prose",
+       "text": "Đức Phật bảo bốn vị Thiên Vương rằng: “Hay thay! Hay thay! Nay vì muốn được sự lợi cho chúng sanh, Ta vì các ông cùng chúng thiên nhơn ở hiện tại và vị lai, mà nói những sự phương tiện của ngài Địa Tạng Bồ Tát ở trong đường sanh tử nơi Diêm Phù Đề ở Ta Bà thế giới nầy, vì lòng từ mẫn xót thương mà cứu vớt, độ thoát tất cả chúng sanh mắc phải tội khổ”."
+      },
+      {
+       "id": "q1.p4.s5.b3",
+       "type": "prose",
+       "text": "Bốn ông Thiên Vương bạch rằng: “Vâng! Bạch đức Thế Tôn! Chúng con xin muốn được nghe”."
+      }
+     ],
+     "id": "q1.p4.s5"
+    },
+    {
+     "number": 6,
+     "title": "PHƯƠNG TIỆN GIÁO HÓA",
+     "blocks": [
+      {
+       "id": "q1.p4.s6.b1",
+       "type": "prose",
+       "text": "Đức Phật bảo bốn ông Thiên Vương rằng: “Từ kiếp lâu xa nhẫn đến ngày nay, ngài Địa Tạng Bồ Tát độ thoát chúng sanh vẫn còn chưa mãn nguyện, Ngài thương xót chúng sanh mắc tội khổ đời nầy, lại quan sát vô lượng kiếp về sau, tội khổ cứ lây dây mãi không dứt. Vì lẽ đó nên Ngài lại phát ra lời trọng nguyện."
+      },
+      {
+       "id": "q1.p4.s6.b2",
+       "type": "prose",
+       "text": "Địa Tạng Bồ Tát ở trong cõi Diêm Phù Đề nơi thế giới Ta Bà, dùng trăm nghìn muôn ức phương chước để giáo hóa chúng sanh."
+      },
+      {
+       "id": "q1.p4.s6.b3",
+       "type": "prose",
+       "text": "Nầy bốn ông Thiên Vương! Ngài Địa Tạng Bồ Tát nếu gặp kẻ sát hại loài sanh vật, thời Ngài dạy rõ quả báo vì ương lụy đời trước mà phải bị chết yểu."
+      },
+      {
+       "id": "q1.p4.s6.b4",
+       "type": "prose",
+       "text": "Nếu gặp kẻ trộm cắp, thời Ngài dạy rõ quả báo nghèo khốn khổ sở."
+      },
+      {
+       "id": "q1.p4.s6.b5",
+       "type": "prose",
+       "text": "Nếu gặp kẻ tà dâm, thời Ngài dạy rõ quả báo làm chim se sẻ, bồ câu, uyên ương."
+      },
+      {
+       "id": "q1.p4.s6.b6",
+       "type": "prose",
+       "text": "Nếu gặp kẻ nói lời thô ác, thời Ngài dạy rõ quả báo quyến thuộc kình chống nhau."
+      },
+      {
+       "id": "q1.p4.s6.b7",
+       "type": "prose",
+       "text": "Nếu gặp kẻ hay khinh chê, thời Ngài dạy rõ quả báo không lưỡi, miệng lở."
+      },
+      {
+       "id": "q1.p4.s6.b8",
+       "type": "prose",
+       "text": "Nếu gặp kẻ nóng giận, thời Ngài dạy rõ quả báo thân hình xấu xí tàn tật."
+      },
+      {
+       "id": "q1.p4.s6.b9",
+       "type": "prose",
+       "text": "Nếu gặp kẻ bỏn xẻn, thời Ngài dạy rõ quả báo cầu muốn không được toại nguyện."
+      },
+      {
+       "id": "q1.p4.s6.b10",
+       "type": "prose",
+       "text": "Nếu gặp kẻ buông lung săn bắn, thời Ngài dạy rõ quả báo kinh hãi điên cuồng mất mạng."
+      },
+      {
+       "id": "q1.p4.s6.b11",
+       "type": "prose",
+       "text": "Nếu gặp kẻ trái nghịch cha mẹ, thời Ngài dạy rõ quả báo Trời đất tru lục."
+      },
+      {
+       "id": "q1.p4.s6.b12",
+       "type": "prose",
+       "text": "Nếu gặp kẻ đốt núi rừng cây cỏ, thời Ngài dạy rõ quả báo cuồng mê đến chết."
+      },
+      {
+       "id": "q1.p4.s6.b13",
+       "type": "prose",
+       "text": "Nếu gặp cha ghẻ, mẹ ghẻ ăn ở độc ác, thời Ngài dạy rõ quả báo thác sanh trở lại hiện đời bị roi vọt."
+      },
+      {
+       "id": "q1.p4.s6.b14",
+       "type": "prose",
+       "text": "Nếu gặp kẻ dùng lưới bắt chim non, thời Ngài dạy rõ quả báo cốt nhục chia lìa."
+      },
+      {
+       "id": "q1.p4.s6.b15",
+       "type": "prose",
+       "text": "Nếu gặp kẻ hủy báng Tam Bảo, thời Ngài dạy rõ quả báo đui, điếc, câm, ngọng."
+      },
+      {
+       "id": "q1.p4.s6.b16",
+       "type": "prose",
+       "text": "Nếu gặp kẻ khinh chê giáo pháp, thời Ngài dạy rõ quả báo ở mãi trong ác đạo."
+      },
+      {
+       "id": "q1.p4.s6.b17",
+       "type": "prose",
+       "text": "Nếu gặp kẻ lạm phá của thường trụ, thời Ngài dạy rõ quả báo ức kiếp luân hồi nơi địa ngục."
+      },
+      {
+       "id": "q1.p4.s6.b18",
+       "type": "prose",
+       "text": "Nếu gặp kẻ ô nhục người hạnh thanh tịnh và vu báng Tăng già, thời Ngài dạy rõ quả báo ở mãi trong loài súc sanh."
+      },
+      {
+       "id": "q1.p4.s6.b19",
+       "type": "prose",
+       "text": "Nếu gặp kẻ dùng nước sôi hay lửa, chém chặt, giết hại sanh vật, thời Ngài dạy rõ quả báo phải luân hồi thường mạng lẫn nhau."
+      },
+      {
+       "id": "q1.p4.s6.b20",
+       "type": "prose",
+       "text": "Nếu gặp kẻ phá giới phạm trai, thời Ngài dạy rõ quả báo cầm thú đói khát."
+      },
+      {
+       "id": "q1.p4.s6.b21",
+       "type": "prose",
+       "text": "Nếu gặp kẻ phung phí phá tổn của cải một cách phi lý, thời Ngài dạy rõ quả báo tiêu dùng thiếu hụt."
+      },
+      {
+       "id": "q1.p4.s6.b22",
+       "type": "prose",
+       "text": "Nếu gặp kẻ tao ta kiêu mạn cống cao, thời Ngài dạy rõ quả báo hèn hạ bị người sai khiến."
+      },
+      {
+       "id": "q1.p4.s6.b23",
+       "type": "prose",
+       "text": "Nếu gặp kẻ đâm chọc gây gổ, thời Ngài dạy rõ quả báo không lưỡi hay trăm lưỡi."
+      },
+      {
+       "id": "q1.p4.s6.b24",
+       "type": "prose",
+       "text": "Nếu gặp kẻ tà kiến mê tín, thời Ngài dạy rõ quả báo thọ sanh vào chốn hẻo lánh."
+      },
+      {
+       "id": "q1.p4.s6.b25",
+       "type": "prose",
+       "text": "Những chúng sanh trong cõi Diêm Phù Đề, từ nơi thân, khẩu, ý tạo ác, kết quả trăm nghìn muôn sự báo ứng như thế, nay chỉ nói sơ lược đó thôi."
+      },
+      {
+       "id": "q1.p4.s6.b26",
+       "type": "prose",
+       "text": "Những nghiệp cảm sai khác của chúng sanh trong chốn Diêm Phù Đề như thế, Địa Tạng Bồ Tát dùng trăm nghìn phương chước để giáo hóa đó."
+      },
+      {
+       "id": "q1.p4.s6.b27",
+       "type": "prose",
+       "text": "Những chúng sanh ấy trước phải chịu lấy các quả báo như thế, sau lại đọa vào địa ngục trải qua nhiều kiếp không lúc nào thoát khỏi."
+      },
+      {
+       "id": "q1.p4.s6.b28",
+       "type": "prose",
+       "text": "Vì thế nên các ông là bực hộ vệ người cùng bảo trợ cõi nước, chớ để những nghiệp chướng đó nó làm mê hoặc chúng sanh."
+      },
+      {
+       "id": "q1.p4.s6.b29",
+       "type": "prose",
+       "text": "Bốn ông Thiên Vương nghe xong, rơi lệ than thở chắp tay lễ Phật mà lui ra."
+      }
+     ],
+     "id": "q1.p4.s6"
+    }
+   ],
+   "id": "q1.p4"
+  }
+ ],
+ "closing": [
+  {
+   "id": "q1.c.b1",
+   "type": "verse",
+   "text": "Bổn nguyện Địa Tạng\nĐao Lợi Thiên cung\nThần thông hiển hóa độ quần mông\nĐời ngũ trược khó thông\nChúng sanh cang cường\nHam vui khổ vô cùng."
+  },
+  {
+   "id": "q1.c.b2",
+   "type": "invocation",
+   "repeat": 3,
+   "text": "Nam mô Thường Trụ Thập Phương Phật."
+  },
+  {
+   "id": "q1.c.b3",
+   "type": "invocation",
+   "repeat": 3,
+   "text": "Nam mô Đại Nguyện Địa Tạng Bồ Tát."
+  }
+ ]
+}

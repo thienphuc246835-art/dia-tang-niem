@@ -1,0 +1,32 @@
+[
+ {
+  "id": "dai_nguyen",
+  "text": "Nam mô Đại Nguyện Địa Tạng Vương Bồ Tát",
+  "source": "Danh hiệu trì niệm phổ thông",
+  "sourceBlockId": null
+ },
+ {
+  "id": "dia_tang_vuong",
+  "text": "Nam mô Địa Tạng Vương Bồ Tát",
+  "source": "Kết Kinh — Tán Phật",
+  "sourceBlockId": "kt.s4.b6"
+ },
+ {
+  "id": "dai_nguyen_ma_ha_tat",
+  "text": "Nam mô Đại Nguyện Địa Tạng Vương Bồ Tát Ma Ha Tát",
+  "source": "Cuối Quyển Hạ",
+  "sourceBlockId": "q3.c.b3"
+ },
+ {
+  "id": "dia_tang_ma_ha_tat",
+  "text": "Nam mô Địa Tạng Bồ Tát Ma Ha Tát",
+  "source": "Cuối Quyển Trung",
+  "sourceBlockId": "q2.c.b3"
+ },
+ {
+  "id": "bon_ton",
+  "text": "Đại Bi, Đại Nguyện, Đại Thánh, Đại Từ, Bổn Tôn Địa Tạng Bồ Tát Ma Ha Tát",
+  "source": "Khai Kinh — Tựa Địa Tạng Bồ Tát",
+  "sourceBlockId": "kk.s1.b3"
+ }
+]

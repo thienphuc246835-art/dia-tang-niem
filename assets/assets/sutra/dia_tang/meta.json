@@ -1,0 +1,15 @@
+{
+ "id": "dia_tang",
+ "title": "Kinh Địa Tạng Bồ Tát Bổn Nguyện",
+ "translatorVi": "HT Thích Trí Tịnh",
+ "translatorHan": "Tam Tạng Pháp Sư Pháp Đăng",
+ "translatorHanReviewed": false,
+ "publisher": "Đạo Tràng Liên Hoa - Lien Hoa Buddhist Temple",
+ "publisherAddress": "5043 Excalibur Dr, San Antonio, TX 78218, USA",
+ "publisherWebsite": "https://www.daotranglienhoa.com",
+ "edition": "Version 5.0 · San Antonio · PL 2570 - DL 2026",
+ "license": "Printed for free distribution. This book is strictly for free distribution, it is not to be sold. Kinh ấn tống không được bán.",
+ "permissionNote": "Chưa có văn bản cho phép của Đạo Tràng Liên Hoa. Chỉ dùng cho phát triển nội bộ cho đến khi có phép (xem docs/permissions/).",
+ "proofread": false,
+ "files": ["khai_kinh.json", "quyen_thuong.json", "quyen_trung.json", "quyen_ha.json", "ket_kinh.json"]
+}

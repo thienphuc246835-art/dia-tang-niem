@@ -1,0 +1,70 @@
+{
+ "id": "kk",
+ "title": "Khai Kinh",
+ "sections": [
+  {
+   "number": null,
+   "title": "TỰA ĐỊA TẠNG BỒ TÁT",
+   "blocks": [
+    {
+     "id": "kk.s1.b1",
+     "type": "heading",
+     "text": "CHÍ TÂM QUY MẠNG LỄ:"
+    },
+    {
+     "id": "kk.s1.b2",
+     "type": "verse",
+     "text": "U Minh Giáo Chủ Bổn Tôn\nĐịa Tạng Bồ Tát Ma Ha Tát\nLạy đức từ bi đại Giáo Chủ\n“Địa” là dày chắc, “Tạng” chứa đủ\nCõi nước phương Nam nổi mây thơm\nRưới hương, rưới hoa, hoa vần vũ\nMây xinh, mưa báu số không lường\nLành tốt, trang nghiêm cảnh dị thường\nNgười, Trời bạch Phật: Nhơn gì thế?\nPhật rằng: Địa Tạng đến Thiên Đường\nChư Phật ba đời đồng khen chuộng\nMười phương Bồ Tát chung tin tưởng\nNay con sẵn có thiện nhơn duyên\nNgợi khen Địa Tạng đức vô lượng\nLòng từ do chứa hạnh lành\nTrải bao số kiếp độ sinh khỏi nàn\nTrong tay đã sẵn gậy vàng\nDộng tan cửa ngục cứu toàn chúng sinh\nTay cầm châu sáng tròn vìn\nHào quang soi khắp ba nghìn Đại Thiên\nDiêm Vương trước điện chẳng hiền\nĐài cao nghiệp cảnh soi liền tội căn\nĐịa Tạng Bồ Tát thượng nhân\nChứng minh công đức của dân Diêm Phù."
+    },
+    {
+     "id": "kk.s1.b3",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Đại Bi, Đại Nguyện, Đại Thánh, Đại Từ, Bổn Tôn Địa Tạng Bồ Tát Ma Ha Tát."
+    }
+   ],
+   "id": "kk.s1"
+  },
+  {
+   "number": null,
+   "title": "VĂN PHÁT NGUYỆN",
+   "blocks": [
+    {
+     "id": "kk.s2.b1",
+     "type": "verse",
+     "text": "Lạy đấng Tam Giới Tôn\nQuy mạng mười phương Phật\nNay con phát nguyện rộng\nThọ trì kinh Địa Tạng\nTrên đền bốn ơn nặng\nDưới cứu khổ tam đồ\nNếu có kẻ thấy nghe\nĐều phát Bồ Đề tâm\nHết một báo thân nầy\nSinh qua cõi Cực Lạc."
+    },
+    {
+     "id": "kk.s2.b2",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Bổn Sư Thích Ca Mâu Ni Phật."
+    }
+   ],
+   "id": "kk.s2"
+  },
+  {
+   "number": null,
+   "title": "KỆ KHAI KINH",
+   "blocks": [
+    {
+     "id": "kk.s3.b1",
+     "type": "verse",
+     "text": "Pháp vi diệu rất sâu vô lượng\nTrăm nghìn muôn ức kiếp khó gặp\nNay con thấy nghe được thọ trì\nNguyện hiểu nghĩa chân thật của Phật."
+    },
+    {
+     "id": "kk.s3.b2",
+     "type": "prose",
+     "text": "Nam mô U Minh giáo chủ hoằng nguyện độ sanh: Địa ngục vị không, thệ bất thành Phật, Chúng sinh độ tận phương chứng Bồ Đề..."
+    },
+    {
+     "id": "kk.s3.b3",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Đại Bi, Đại Nguyện, Đại Thánh, Đại Từ, Bổn Tôn Địa Tạng Bồ Tát Ma Ha Tát."
+    }
+   ],
+   "id": "kk.s3"
+  }
+ ]
+}
