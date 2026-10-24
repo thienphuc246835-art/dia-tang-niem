@@ -44,6 +44,20 @@ class LocalStore {
       await _prefs.remove(key);
     }
   }
+
+  /// Every stored entry as raw JSON strings, keyed without the prefix. Used for backup.
+  Map<String, String> exportAll() => {
+    for (final key in _prefs.getKeys().where((k) => k.startsWith(_prefix)))
+      key.substring(_prefix.length): ?_prefs.getString(key),
+  };
+
+  /// Replaces all stored data with [entries] (as produced by [exportAll]).
+  Future<void> replaceAll(Map<String, String> entries) async {
+    await clearAll();
+    for (final e in entries.entries) {
+      await _prefs.setString('$_prefix${e.key}', e.value);
+    }
+  }
 }
 
 /// Overridden in main() once SharedPreferences is ready.

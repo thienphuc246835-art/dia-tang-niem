@@ -1,15 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../core/storage/local_store.dart';
 import '../../core/strings.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/theme/tokens.dart';
 import '../../core/utils/dates.dart';
 import '../../core/widgets/common.dart';
 import '../chant/data/chant_controller.dart';
-import '../dedication/data/dedication_controller.dart';
-import '../sutra/data/reading_controller.dart';
+import 'backup.dart';
 import 'settings_controller.dart';
 
 class SettingsScreen extends ConsumerWidget {
@@ -23,12 +21,40 @@ class SettingsScreen extends ConsumerWidget {
       confirmLabel: S.delete,
     );
     if (!ok) return;
-    await ref.read(localStoreProvider).clearAll();
-    ref
-      ..invalidate(settingsProvider)
-      ..invalidate(chantProvider)
-      ..invalidate(dedicationProvider)
-      ..invalidate(readingProvider);
+    await clearAllData(ref);
+  }
+
+  Future<void> _backup(BuildContext context, WidgetRef ref) async {
+    try {
+      if (await exportBackup(ref) && context.mounted) {
+        showQuietSnack(context, S.backupDone);
+      }
+    } on Exception {
+      if (context.mounted) showQuietSnack(context, S.fileError);
+    }
+  }
+
+  Future<void> _restore(BuildContext context, WidgetRef ref) async {
+    final Map<String, String>? entries;
+    try {
+      entries = await pickBackup();
+    } on FormatException {
+      if (context.mounted) showQuietSnack(context, S.restoreInvalid);
+      return;
+    } on Exception {
+      if (context.mounted) showQuietSnack(context, S.fileError);
+      return;
+    }
+    if (entries == null || !context.mounted) return;
+    final ok = await confirmDialog(
+      context,
+      title: S.restoreConfirmTitle,
+      body: S.restoreConfirmBody,
+      confirmLabel: S.restoreConfirm,
+    );
+    if (!ok) return;
+    await restoreBackup(ref, entries);
+    if (context.mounted) showQuietSnack(context, S.restoreDone);
   }
 
   @override
@@ -130,6 +156,18 @@ class SettingsScreen extends ConsumerWidget {
               S.privacyNote,
               style: TextStyle(color: p.textMuted, fontSize: 14, height: 1.5),
             ),
+          ),
+          ListTile(
+            leading: const Icon(Icons.download_outlined),
+            title: const Text(S.backup),
+            subtitle: const Text(S.backupHint),
+            onTap: () => _backup(context, ref),
+          ),
+          ListTile(
+            leading: const Icon(Icons.upload_outlined),
+            title: const Text(S.restore),
+            subtitle: const Text(S.restoreHint),
+            onTap: () => _restore(context, ref),
           ),
           ListTile(
             leading: Icon(

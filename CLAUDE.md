@@ -381,7 +381,9 @@ SDK/JDK: `C:\src\android-sdk`, `C:\src\jdk17`. APK đã build để ở `dist/` 
     đánh dấu (nhấn giữ đoạn Kinh), nhớ vị trí đọc, cỡ chữ/giãn dòng, giao diện Tự động/Sáng/Giấy/Tối.
   - Hồi hướng: người thân, nhật ký, 49 ngày.
   - Lịch Thập Trai/âm lịch/vía/ngày giỗ, nhật ký tu tập, cài đặt, trang Nguồn Kinh.
-- **Chưa làm:** nhắc nhở (thông báo), widget, sao lưu, audio, ghi chú/tô màu, đếm bằng nút âm lượng
+  - Sao lưu/khôi phục ra tệp JSON (Cài đặt → Dữ liệu; chưa mã hoá).
+  - Bản web công khai: https://thienphuc246835-art.github.io/dia-tang-niem/ (đăng bằng `tools/deploy_web.ps1`).
+- **Chưa làm:** nhắc nhở (thông báo), widget, đồng bộ đám mây, audio, ghi chú/tô màu, đếm bằng nút âm lượng
   (cần code native), Xưng danh hiệu chư Phật, Lời dạy mỗi ngày.
 - **Chờ kiểm duyệt (`TODO(buddhist-review)`):**
   - Người dịch từ chữ Hán.

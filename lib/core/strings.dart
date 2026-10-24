@@ -152,6 +152,20 @@ abstract final class S {
       'Mọi số đếm, người thân, nhật ký và đánh dấu sẽ bị xoá vĩnh viễn khỏi máy này.';
   static const privacyNote =
       'Mọi dữ liệu chỉ lưu trên máy này. Ứng dụng không gửi dữ liệu đi đâu.';
+  static const backup = 'Sao lưu dữ liệu';
+  static const backupHint =
+      'Lưu số niệm, người thân, nhật ký và đánh dấu ra một tệp trên máy.';
+  static const backupDone =
+      'Đã lưu tệp sao lưu. Tệp có tên người thân — xin giữ ở nơi riêng tư.';
+  static const restore = 'Khôi phục từ tệp sao lưu';
+  static const restoreHint = 'Dùng khi đổi máy hoặc mở ứng dụng ở nơi khác.';
+  static const restoreConfirmTitle = 'Khôi phục dữ liệu?';
+  static const restoreConfirmBody =
+      'Dữ liệu hiện có trên máy này sẽ được thay bằng dữ liệu trong tệp sao lưu.';
+  static const restoreConfirm = 'Khôi phục';
+  static const restoreDone = 'Đã khôi phục dữ liệu.';
+  static const restoreInvalid = 'Tệp này không phải tệp sao lưu của ứng dụng.';
+  static const fileError = 'Không mở được tệp. Xin thử lại.';
 
   static const freeDistribution =
       'Ứng dụng miễn phí, không quảng cáo — như Kinh ấn tống.';
