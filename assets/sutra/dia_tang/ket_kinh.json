@@ -1,0 +1,199 @@
+{
+ "id": "kt",
+ "title": "Kết Kinh",
+ "sections": [
+  {
+   "number": null,
+   "title": null,
+   "blocks": [
+    {
+     "id": "kt.s1.b1",
+     "type": "verse",
+     "text": "Đao Lợi, Thế Tôn nói pháp mầu\nĐịa Tạng công hạnh rất rộng sâu\nThánh giáo mãi truyền sau chẳng ngớt\nKhắp lợi Trời, người khỏi khổ sầu.\nTrời, A tu la, Dạ xoa thảy\nĐến nghe pháp đó nên chí tâm\nỦng hộ Phật pháp khiến thường còn\nMỗi vị siêng tu lời Phật dạy\nBao nhiêu người nghe đến chốn nầy\nHoặc trên đất liền hoặc hư không\nThường đối người đời sanh từ tâm\nNgày đêm tự mình nương pháp ở\nNguyện các thế giới thường an ổn\nPhước trí vô biên lợi quần sinh\nBao nhiêu tội nghiệp thảy đều trừ\nXa lìa các khổ về viên tịch\nHằng dùng giới hương xoa vóc sáng\nThường gìn định phục để giúp thân\nHoa mầu Bồ Đề khắp trang nghiêm\nTùy theo chỗ ở thường an lạc."
+    },
+    {
+     "id": "kt.s1.b2",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Tồi Tà Phụ Chính Hộ Pháp Chư Tôn Bồ Tát Ma Ha Tát."
+    }
+   ],
+   "id": "kt.s1"
+  },
+  {
+   "number": null,
+   "title": "MA HA BÁT NHÃ BA LA MẬT ĐA TÂM KINH",
+   "blocks": [
+    {
+     "id": "kt.s2.b1",
+     "type": "prose",
+     "text": "Quán Tự Tại Bồ Tát hành thâm Bát Nhã Ba La Mật Đa thời, chiếu kiến ngũ uẩn giai không độ nhất thiết khổ ách."
+    },
+    {
+     "id": "kt.s2.b2",
+     "type": "prose",
+     "text": "Xá Lợi Tử! Sắc bất dị không, không bất dị sắc, sắc tức thị không, không tức thị sắc, thọ, tưởng, hành, thức diệc phục như thị."
+    },
+    {
+     "id": "kt.s2.b3",
+     "type": "prose",
+     "text": "Xá Lợi Tử! Thị chư pháp không tướng, bất sanh, bất diệt, bất cấu, bất tịnh, bất tăng, bất giảm. Thị cố không trung vô sắc, vô thọ, tưởng, hành, thức, vô nhãn, nhĩ, tỷ, thiệt, thân, ý, vô sắc, thinh, hương, vị, xúc, pháp, vô nhãn giới, nãi chí vô ý thức giới, vô vô minh diệc vô vô minh tận, nãi chí vô lão tử diệc, vô lão tử tận, vô khổ, tập, diệt, đạo, vô trí diệc vô đắc. Dĩ vô sở đắc cố, Bồ đề tát đỏa y Bát Nhã Ba La Mật Đa cố, tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố, viễn ly điên đảo mộng tưởng cứu cánh Niết Bàn. Tam thế chư Phật y Bát Nhã Ba La Mật Đa cố, đắc a nậu đa la tam miệu tam bồ đề. Cố tri Bát Nhã Ba La Mật Đa, thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chơn thật bất hư."
+    },
+    {
+     "id": "kt.s2.b4",
+     "type": "prose",
+     "text": "Cố thuyết Bát Nhã Ba La Mật Đa chú. Tức thuyết chú viết:"
+    },
+    {
+     "id": "kt.s2.b5",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "“Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.”"
+    }
+   ],
+   "id": "kt.s2"
+  },
+  {
+   "number": null,
+   "title": "VÃNG SANH QUYẾT ĐỊNH CHƠN NGÔN",
+   "blocks": [
+    {
+     "id": "kt.s3.b1",
+     "type": "mantra",
+     "repeat": 3,
+     "text": "Nam mô a di đa bà dạ, đa tha già đa dạ, đa địa dạ tha. A di rị đô bà tỳ, a di rị đa tất đam bà tỳ, a di rị đa tỳ ca lan đế, a di rị đa tỳ ca lan đa, dà di nị dà dà na, chỉ đa ca lệ ta bà ha."
+    }
+   ],
+   "id": "kt.s3"
+  },
+  {
+   "number": null,
+   "title": "TÁN PHẬT",
+   "blocks": [
+    {
+     "id": "kt.s4.b1",
+     "type": "verse",
+     "text": "A Di Đà Phật thân kim sắc,\nTướng hảo quang minh vô đẳng luân,\nBạch hào uyển chuyển ngũ tu di,\nCám mục trừng thanh tứ đại hải,\nQuang trung hóa Phật vô số ức,\nHóa Bồ Tát chúng diệc vô biên,\nTứ thập bát nguyện độ chúng sanh,\nCửu phẩm hàm linh đăng bỉ ngạn."
+    },
+    {
+     "id": "kt.s4.b2",
+     "type": "prose",
+     "text": "Nam mô Tây Phương Cực Lạc Thế Giới, Đại Từ Đại Bi, A Di Đà Phật."
+    },
+    {
+     "id": "kt.s4.b3",
+     "type": "invocation",
+     "repeat": 21,
+     "text": "Nam mô A Di Đà Phật."
+    },
+    {
+     "id": "kt.s4.b4",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Đại Bi Quán Thế Âm Bồ Tát."
+    },
+    {
+     "id": "kt.s4.b5",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Đại Thế Chí Bồ Tát."
+    },
+    {
+     "id": "kt.s4.b6",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Địa Tạng Vương Bồ Tát."
+    },
+    {
+     "id": "kt.s4.b7",
+     "type": "invocation",
+     "repeat": 3,
+     "text": "Nam mô Thanh Tịnh Đại Hải Chúng Bồ Tát."
+    }
+   ],
+   "id": "kt.s4"
+  },
+  {
+   "number": null,
+   "title": "SÁM THẬP PHƯƠNG",
+   "blocks": [
+    {
+     "id": "kt.s5.b1",
+     "type": "verse",
+     "text": "Thập phương tam thế Phật\nA Di Đà đệ nhất\nCửu phẩm độ chúng sanh\nOai đức vô cùng cực\nNgã kim đại quy y\nSám hối tam nghiệp tội\nPhàm hữu chư phước thiện\nChí tâm dụng hồi hướng\nNguyện đồng niệm Phật nhơn\nCảm ứng tùy thời hiện\nLâm chung tây phương cảnh\nPhân minh tại mục tiền\nKiến văn giai tinh tấn\nĐồng sanh Cực Lạc quốc\nKiến Phật liễu sanh tử\nNhư Phật độ nhất thiết\nVô biên phiền não đoạn\nVô lượng pháp môn tu\nThệ nguyện độ chúng sanh\nTổng giai thành Phật đạo\nHư không hữu tận\nNgã nguyện vô cùng\nTình dữ vô tình\nĐồng viên chủng trí.\nNhất giả lễ kính chư Phật\nNhị giả xưng tán Như Lai\nTam giả quảng tu cúng dường\nTứ giả sám hối nghiệp chướng\nNgũ giả tùy hỷ công đức\nLục giả thỉnh chuyển pháp luân\nThất giả thỉnh Phật trụ thế\nBát giả thường tùy Phật học\nCửu giả hằng thuận chúng sanh\nThập giả phổ giai hồi hướng."
+    }
+   ],
+   "id": "kt.s5"
+  },
+  {
+   "number": null,
+   "title": "PHÚNG KINH",
+   "blocks": [
+    {
+     "id": "kt.s6.b1",
+     "type": "verse",
+     "text": "Phúng kinh công đức thù thắng hạnh,\nVô biên thắng phước giai hồi hướng,\nPhổ nguyện pháp giới chư chúng sanh,\nTốc vãng vô lượng quang Phật sát.\nNguyện tiêu tam chướng trừ phiền não,\nNguyện đắc trí huệ chơn minh liễu,\nPhổ nguyện tội chướng tất tiêu trừ,\nThế thế thường hành Bồ tát đạo.\nNguyện sanh Tây Phương Tịnh Độ trung,\nCửu phẩm Liên hoa vi phụ mẫu,\nHoa khai kiến Phật ngộ vô sanh,\nBất thối Bồ tát vi bạn lữ.\nNguyện dĩ thử công đức,\nPhổ cập ư nhứt thiết,\nNgã đẳng dữ chúng sanh,\nGiai cộng thành Phật đạo."
+    }
+   ],
+   "id": "kt.s6"
+  },
+  {
+   "number": null,
+   "title": "PHỤC NGUYỆN",
+   "blocks": [
+    {
+     "id": "kt.s7.b1",
+     "type": "prose",
+     "text": "A Di Đà Phật thường lai hộ trì, linh ngã thiện căn, hiện tiền tăng tấn, bất thất tịnh nhơn. Lâm mạng chung thời, thân tâm chánh niệm, thị thính phân minh, diện phụng Di Đà, dữ chư thánh chúng, thủ chấp kim đài, lai nghinh tiếp ngã, nhất sát na khoảnh, sinh tại Phật tiền, cụ Bồ Tát đạo, quảng độ chúng sanh, đồng thành chủng trí."
+    },
+    {
+     "id": "kt.s7.b2",
+     "type": "invocation",
+     "prostrations": 1,
+     "text": "Nam mô Tây phương Cực Lạc thế giới đại từ đại bi A Di Đà Phật."
+    },
+    {
+     "id": "kt.s7.b3",
+     "type": "invocation",
+     "prostrations": 1,
+     "text": "Nam mô Tây phương Cực Lạc thế giới Đại Bi Quán Thế Âm Bồ Tát, Đại Thế Chí Bồ Tát, Thanh Tịnh Đại Hải chúng Bồ Tát. (1 lạy) Nam mô Tây phương Cực Lạc thế giới Liên Trì Hải Hội Phật, Bồ Tát, nhất thiết hiền thánh chúng, chư Thượng Thiện nhân."
+    }
+   ],
+   "id": "kt.s7"
+  },
+  {
+   "number": null,
+   "title": "TAM QUY Y",
+   "blocks": [
+    {
+     "id": "kt.s8.b1",
+     "type": "prose",
+     "text": "Tự quy y Phật, đương nguyện chúng sanh, thể giai đại đạo, phát vô thượng tâm."
+    },
+    {
+     "id": "kt.s8.b2",
+     "type": "prose",
+     "text": "Tự quy y Pháp, đương nguyện chúng sanh, thâm nhập kinh tạng, trí huệ như hải."
+    },
+    {
+     "id": "kt.s8.b3",
+     "type": "prose",
+     "text": "Tự quy y Tăng, đương nguyện chúng sanh, thống lý đại chúng, nhất thiết vô ngại."
+    }
+   ],
+   "id": "kt.s8"
+  },
+  {
+   "number": null,
+   "title": "HỒI HƯỚNG",
+   "blocks": [
+    {
+     "id": "kt.s9.b1",
+     "type": "verse",
+     "text": "Nguyện đem công đức nầy,\nHướng về khắp tất cả,\nĐệ tử và chúng sanh,\nĐều trọn thành phật đạo."
+    }
+   ],
+   "id": "kt.s9"
+  }
+ ]
+}
